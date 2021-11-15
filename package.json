@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "microlib",
+  "version": "1.0.0",
+  "description": "tbd",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NenadP/microlib.git"
+  },
+  "keywords": [
+    "tbd"
+  ],
+  "author": "Nenad Pantic <nenopantic@gmail.com> (https://www.nenadpantic.com/)",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/NenadP/microlib/issues"
+  },
+  "homepage": "https://github.com/NenadP/microlib#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  }
+}
