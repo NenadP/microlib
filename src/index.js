@@ -1,6 +1,6 @@
 import uniqueRandomArray from "unique-random-array";
 
-const data = ['foo', 'bar', 'baz'];
+const data = ['foo', 'bar', 'baz', 'fiz'];
 
 class Demo {
 
